@@ -1,0 +1,7 @@
+CONCEPTION:
+-----------
+
+Concernant la conception du projet nous nous sommes tenus à ce qui a été formellement demandé dans l'énoncé,
+la seule extension ajoutée est l'animation du mouvement du personnage.
+En plus de cela, il n'y a pas d'ajouts ou modification éventuelles de notre part.
+
